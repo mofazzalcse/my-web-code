@@ -24,12 +24,13 @@
         var a = num1 + num2;
         var b= num1- num2;
         var c = num1 * 100;
-      for (let index = 5; index < 100; index= index+5) {
         
-        document.write('MY name is Naim');
-        document.write('<br>');
+        for (let index = 5; index < 100; index= index+5) {
+        
+                document.write('MY name is Naim');
+                document.write('<br>');
 
-        document.write(index);
+                document.write(index);
 
 
       }
